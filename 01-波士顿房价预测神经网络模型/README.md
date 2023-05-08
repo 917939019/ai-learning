@@ -8,6 +8,6 @@
 
 #### Gitee帮助中心
 
- Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+ <p> Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help) </p>
  Git/Gitee学习视频[尚硅谷Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vy4y1s7k6/?spm_id_from=333.337.search-card.all.click)
 
